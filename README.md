@@ -45,12 +45,11 @@ A simple, beautiful expense tracking web application built with HTML, CSS, and J
 
 ## File Structure
 expense-tracker/
-├── index.html # Main HTML file
-├── style.css # CSS styles
-├── script.js # JavaScript logic
-├── README.md # This file
-└── documentation.md # Technical documentation
-
+├── 📄 index.html                 # Main HTML document
+├── 🎨 style.css                  # CSS styles with themes
+├── ⚡ script.js                   # JavaScript functionality
+├── 📖 README.md                  # This documentation file
+└── 📋 documentation.md           # Technical documentation
 
 ## Data Storage
 
@@ -66,5 +65,6 @@ All data is stored locally in your browser using localStorage. Your transactions
 - Google Fonts for typography
 
 ## License
+
 
 Educational project - Free to use and modify.
